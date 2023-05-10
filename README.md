@@ -1,0 +1,2 @@
+# aicode
+Smart Contract Bot
